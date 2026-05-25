@@ -1,4 +1,4 @@
-# 8-Point NTT Accelerator — Verilog Implementation
+# 8-Point NTT Accelerator: Verilog Implementation
 
 Hardware implementation of the Number Theoretic Transform (NTT).
 
