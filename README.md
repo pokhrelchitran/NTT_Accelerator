@@ -1,6 +1,6 @@
 # 8-Point NTT Accelerator — Verilog Implementation
 
-Hardware implementation of the Number Theoretic Transform (NTT) for the PhD candidacy evaluation task.
+Hardware implementation of the Number Theoretic Transform (NTT).
 
 ## Parameters
 
